@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-17T21:45:59 IST" name="Login" finished-at="2023-07-17T21:46:16 IST" duration-ms="17324">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T21:45:59 IST" name="Test" finished-at="2023-07-17T21:46:16 IST" duration-ms="17324">
+      <class name="testBase.OrangeLoginTest">
+        <test-method signature="test_Login()[pri:0, instance:testBase.OrangeLoginTest@4cc451f2]" started-at="2023-07-17T21:45:59 IST" name="test_Login" finished-at="2023-07-17T21:46:16 IST" duration-ms="17282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+      </class> <!-- testBase.OrangeLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Login -->
+</testng-results>
